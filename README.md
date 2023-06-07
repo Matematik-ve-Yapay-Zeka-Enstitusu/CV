@@ -1,0 +1,2 @@
+# CV
+Bilgisayarlı görü araçları
