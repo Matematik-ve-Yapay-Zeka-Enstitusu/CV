@@ -1,2 +1,3 @@
-# CV
-Bilgisayarlı görü araçları
+# Bilgisayarlı görü araçları
+
+https://huggingface.co/ArtGAN
