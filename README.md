@@ -1,3 +1,5 @@
 # Bilgisayarlı görü araçları
 
-https://huggingface.co/ArtGAN
+
+
+* [KADİR NAR](https://huggingface.co/ArtGAN)
